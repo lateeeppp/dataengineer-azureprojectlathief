@@ -1,0 +1,15 @@
+{
+	"name": "df-azurelathief",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indonesiacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b0a113a-66f2-480d-90e3-d008c8d3a22e",
+		"tenantId": "fff8d9b5-5e73-4311-a3ad-1088cb8a7732"
+	}
+}
